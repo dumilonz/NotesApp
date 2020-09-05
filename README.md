@@ -1,1 +1,2 @@
 # NotesApp
+Thi is an app build from a Youtube series `https://www.youtube.com/watch?v=fdUwW0GgcS8&list=PLB6lc7nQ1n4iS5p-IezFFgqP6YvAJy84U&index=2` with the aim to learn Domain-Driven Design for a flutter app.
